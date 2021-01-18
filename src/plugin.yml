@@ -1,0 +1,9 @@
+name: ClearEnchants
+main: me.IgnoreList.ClearEnchant.ClearEnchant
+version: 1.0
+api-version: 1.8.9
+
+commands:
+  ce:
+    description: Clears the enchants on your item
+    usage: /ce
